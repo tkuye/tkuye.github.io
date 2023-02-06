@@ -1,0 +1,19 @@
+html, body {
+  margin: 0;
+  border: 0;
+  font-size: 100%;
+  background-color: #ffaaff;
+  color: #ffffff;	
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: center;
+  font-style: italic;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+a {
+	color: rgb(0, 155, 245);
+	font-weight: bold;
+}

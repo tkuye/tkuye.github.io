@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Tosin - Blog</title><link href="https://tkuye.github.io/" rel="alternate"></link><link href="https://tkuye.github.io/feeds/blog.atom.xml" rel="self"></link><id>https://tkuye.github.io/</id><updated>2023-02-06T08:00:00-07:00</updated><entry><title>My Pain and Suffering</title><link href="https://tkuye.github.io/my-pain-and-suffering.html" rel="alternate"></link><published>2023-02-06T08:00:00-07:00</published><updated>2023-02-06T08:00:00-07:00</updated><author><name>Tosin</name></author><id>tag:tkuye.github.io,2023-02-06:/my-pain-and-suffering.html</id><content type="html">&lt;h2&gt;Welcome To Your Doom&lt;/h2&gt;
-&lt;h4&gt;Hello There&lt;/h4&gt;
+&lt;h2&gt;Hello There&lt;/h2&gt;
 &lt;p&gt;I am tired and I don't understand why this class has like 40 labs and assignments. &lt;/p&gt;
-&lt;h4&gt;Goodbye&lt;/h4&gt;
-&lt;p&gt;I just want to graduate. &lt;/p&gt;</content><category term="Blog"></category></entry></feed>
+&lt;h2&gt;Goodbye&lt;/h2&gt;
+&lt;p&gt;I just want to graduate. &lt;/p&gt;</content><category term="Blog"></category></entry><entry><title>My Pain Continues</title><link href="https://tkuye.github.io/my-pain-continues.html" rel="alternate"></link><published>2023-02-06T08:00:00-07:00</published><updated>2023-02-06T08:00:00-07:00</updated><author><name>Tosin</name></author><id>tag:tkuye.github.io,2023-02-06:/my-pain-continues.html</id><content type="html">&lt;h2&gt;I am so done with school&lt;/h2&gt;
+&lt;p&gt;This is becoming a massive time suck. I need to stop this. &lt;/p&gt;
+&lt;h2&gt;Goodbye&lt;/h2&gt;
+&lt;p&gt;I just want to graduate.&lt;/p&gt;</content><category term="Blog"></category></entry><entry><title>My Pain Ends</title><link href="https://tkuye.github.io/my-pain-ends.html" rel="alternate"></link><published>2023-02-06T08:00:00-07:00</published><updated>2023-02-06T08:00:00-07:00</updated><author><name>Tosin</name></author><id>tag:tkuye.github.io,2023-02-06:/my-pain-ends.html</id><content type="html">&lt;h2&gt;This is the end&lt;/h2&gt;
+&lt;p&gt;I only have one semester left. I am so happy.
+I can't wait to graduate and never come back. &lt;/p&gt;
+&lt;h2&gt;Goodbye&lt;/h2&gt;
+&lt;p&gt;I just want to graduate.&lt;/p&gt;</content><category term="Blog"></category></entry></feed>
