@@ -1,0 +1,14 @@
+.large-flashcard.is-switching .large-flashcard-front,
+.large-flashcard.is-switching .large-flashcard-back{
+  transition:none!important;
+}
+.large-flashcard.is-switching .large-flashcard-front{
+  opacity:1!important;
+  transform:none!important;
+  pointer-events:auto!important;
+}
+.large-flashcard.is-switching .large-flashcard-back{
+  opacity:0!important;
+  transform:translateY(16px) scale(.985)!important;
+  pointer-events:none!important;
+}
